@@ -1,4 +1,4 @@
-# Interface-Instagram
+# Instagram-Clone
 Recriando pagina inicial do **Instagram**
 
 Conteudos:
